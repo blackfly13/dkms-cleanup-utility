@@ -58,6 +58,17 @@ chmod +x dkms-cleanup.sh
 - sudo privileges
 
 ---
+## 🙌 Extend Support
+
+You can improve this script by adding:
+
+    Auto-rebuilding DKMS modules for current kernels
+
+    A GUI frontend
+
+    Cron integration for scheduled cleanups
+
+    Pull requests and issues are welcome!
 
 ## 🪪 License
 
